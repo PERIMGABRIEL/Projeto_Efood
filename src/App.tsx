@@ -6,7 +6,6 @@ import GlobalStyle from './styles'
 import RoutesProvider from './routes'
 import { persistor, store } from './store'
 import { PersistGate } from 'redux-persist/integration/react'
-import React from 'react'
 
 function App() {
   return (

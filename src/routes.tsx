@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 
-import Perfil from './pages/perfil'
+import Perfil from './pages/Perfil'
 import Home from './pages/Home'
 
 const RoutesProvider = () => {
